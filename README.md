@@ -22,6 +22,8 @@ const cheerio = require('cheerio');
 
 
 ``` bash
+npm install
+
 node index.js
 ```
 
